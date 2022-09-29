@@ -1,6 +1,7 @@
 # WaedTube App
 
-![cryptoverse-app](https://user-images.githubusercontent.com/63124632/182396808-75df91ac-efbf-4fea-815b-2eacf84dbbc1.PNG)
+![WaedTube](https://user-images.githubusercontent.com/63124632/193048469-a0056071-1b2c-407f-b37f-4d1cb1802d7b.PNG)
+
 
 
 ## Inrtoduction
