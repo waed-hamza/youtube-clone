@@ -15,4 +15,4 @@ It also uses <b>Youtube v3 API</b> powered by <b>[RapidApi](https://rapidapi.com
 
 <hr />
 
-### Visit the live website [here](https://waed-crypto-app.netlify.app/).
+### Visit the live website [here](https://waedtube.netlify.app/).
